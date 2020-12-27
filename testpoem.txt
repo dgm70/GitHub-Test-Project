@@ -3,6 +3,7 @@ Rainbow
 Violet
 Green
 Yellow
+Zoom
 Red
 Indigo
 Blue
